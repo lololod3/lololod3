@@ -4,3 +4,5 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lololod3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lololod3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lololod3&theme=github_dark)
